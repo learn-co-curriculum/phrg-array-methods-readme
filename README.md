@@ -78,4 +78,8 @@ Even though arrays start with a 0 `index`, this method returns the actual number
 
 **Note**: Be aware that all of the methods we have covered in this reading are case sensitive. For example, `reverse` not `Reverse`.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-array-methods-readme/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-array-methods-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Array Methods</p>
